@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-growl-ifightcrime",
+  "version": "1.1.0",
+  "description": "Pretty simple jQuery plugin that turns standard Bootstrap alerts into hovering 'Growl-like' notifications.",
+  "main": "jquery.bootstrap-growl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifightcrime/bootstrap-growl.git"
+  },
+  "keywords": [
+    "growl",
+    "notification",
+    "jquery"
+  ],
+  "author": "Nick Larson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ifightcrime/bootstrap-growl/issues"
+  },
+  "homepage": "https://github.com/ifightcrime/bootstrap-growl#readme"
+}
