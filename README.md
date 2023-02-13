@@ -1,5 +1,5 @@
 # Smart-School-Bus-Tracking-and-routes-detail
-The " Smart School Bus Tracking and routes detail." project aims to improve the efficiency and convenience of university bus transportation for students and staff by utilizing geolocation technology.
+The "Smart School Bus Tracking and routes detail." project aims to improve the efficiency and convenience of university bus transportation for students and staff by utilizing geolocation technology.
 
 **Introduction:**
 The "Smart School Bus Tracking and routes detail" project aims to improve the efficiency and convenience of university bus transportation for students and staff by utilizing geolocation technology. The project utilizes GPS technology to provide real-time tracking of university buses and their routes, allowing users to easily view the location and estimated arrival time of their bus. Additionally, the project provides detailed information on all bus routes and the drivers assigned to each route, allowing users to make more informed decisions about their transportation options.
